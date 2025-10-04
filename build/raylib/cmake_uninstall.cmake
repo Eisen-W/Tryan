@@ -1,8 +1,8 @@
-if(NOT EXISTS "/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/install_manifest.txt")
-  message(FATAL_ERROR "Cannot find install manifest: /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/install_manifest.txt")
+if(NOT EXISTS "/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/install_manifest.txt")
+  message(FATAL_ERROR "Cannot find install manifest: /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/install_manifest.txt")
 endif()
 
-file(READ "/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/install_manifest.txt" files)
+file(READ "/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 foreach(file ${files})
   message(STATUS "Uninstalling $ENV{DESTDIR}${file}")

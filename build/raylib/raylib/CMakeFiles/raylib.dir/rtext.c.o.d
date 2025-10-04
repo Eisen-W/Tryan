@@ -1,12 +1,12 @@
 raylib/raylib/CMakeFiles/raylib.dir/rtext.c.o: \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/rtext.c \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/rtext.c \
  /usr/include/stdc-predef.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/raylib.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/raylib.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/config.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/utils.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/rlgl.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/config.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/utils.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/rlgl.h \
  /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -58,7 +58,7 @@ raylib/raylib/CMakeFiles/raylib.dir/rtext.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h /usr/include/ctype.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/stb_rect_pack.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/stb_rect_pack.h \
  /usr/include/assert.h /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -67,4 +67,4 @@ raylib/raylib/CMakeFiles/raylib.dir/rtext.c.o: \
  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/stb_truetype.h
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/stb_truetype.h

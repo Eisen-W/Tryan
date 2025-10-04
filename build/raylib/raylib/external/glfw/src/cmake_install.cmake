@@ -1,4 +1,4 @@
-# Install script for directory: /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/glfw/src
+# Install script for directory: /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/glfw/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

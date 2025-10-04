@@ -1,12 +1,12 @@
 raylib/raylib/CMakeFiles/raylib.dir/raudio.c.o: \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/raudio.c \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/raudio.c \
  /usr/include/stdc-predef.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/raylib.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/raylib.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/config.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/utils.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/miniaudio.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/config.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/utils.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/miniaudio.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h /usr/include/pthread.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -109,10 +109,10 @@ raylib/raylib/CMakeFiles/raylib.dir/raudio.c.o: \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
  /usr/include/x86_64-linux-gnu/bits/eventfd.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/dr_wav.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/stb_vorbis.c \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/dr_mp3.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/qoa.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/qoaplay.c \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/jar_xm.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/jar_mod.h
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/dr_wav.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/stb_vorbis.c \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/dr_mp3.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/qoa.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/qoaplay.c \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/jar_xm.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/jar_mod.h

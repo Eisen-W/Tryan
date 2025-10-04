@@ -1,4 +1,4 @@
-# Install script for directory: /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src
+# Install script for directory: /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -43,32 +43,32 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/raylib/raylib/libraylib.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/raylib/raylib/libraylib.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE FILE FILES
-    "/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/raylib.h"
-    "/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/rlgl.h"
-    "/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/raymath.h"
+    "/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/raylib.h"
+    "/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/rlgl.h"
+    "/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/raymath.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/raylib/raylib/raylib.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/raylib/raylib/raylib.pc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/raylib" TYPE FILE FILES "/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/raylib/raylib/raylib-config-version.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/raylib" TYPE FILE FILES "/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/raylib/raylib/raylib-config-version.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/raylib" TYPE FILE FILES "/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/../cmake/raylib-config.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/raylib" TYPE FILE FILES "/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/../cmake/raylib-config.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/raylib/raylib/external/glfw/cmake_install.cmake")
+  include("/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/raylib/raylib/external/glfw/cmake_install.cmake")
 
 endif()
 

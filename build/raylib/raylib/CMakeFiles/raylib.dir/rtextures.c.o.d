@@ -1,12 +1,12 @@
 raylib/raylib/CMakeFiles/raylib.dir/rtextures.c.o: \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/rtextures.c \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/rtextures.c \
  /usr/include/stdc-predef.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/raylib.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/raylib.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/config.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/utils.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/rlgl.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/config.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/utils.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/rlgl.h \
  /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -65,7 +65,7 @@ raylib/raylib/CMakeFiles/raylib.dir/rtextures.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/stb_image.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/stb_image.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h \
  /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
@@ -82,9 +82,9 @@ raylib/raylib/CMakeFiles/raylib.dir/rtextures.c.o: \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/xmmintrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/mmintrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/mm_malloc.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/rl_gputex.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/qoi.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/stb_image_write.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/stb_perlin.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/stb_image_resize2.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/stb_image_resize2.h
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/rl_gputex.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/qoi.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/stb_image_write.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/stb_perlin.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/stb_image_resize2.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/stb_image_resize2.h

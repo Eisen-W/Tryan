@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP
 
-CXX_INCLUDES = -I/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src -I/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/external/glfw/include
+CXX_INCLUDES = -I/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src -I/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/external/glfw/include
 
 CXX_FLAGS = -std=c++17
 

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/main.cpp" "CMakeFiles/game.dir/main.cpp.o" "gcc" "CMakeFiles/game.dir/main.cpp.o.d"
+  "/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/main.cpp" "CMakeFiles/game.dir/main.cpp.o" "gcc" "CMakeFiles/game.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

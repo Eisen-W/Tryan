@@ -1,4 +1,4 @@
-# Install script for directory: /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan
+# Install script for directory: /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/raylib/cmake_install.cmake")
+  include("/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/raylib/cmake_install.cmake")
 
 endif()
 
@@ -56,5 +56,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

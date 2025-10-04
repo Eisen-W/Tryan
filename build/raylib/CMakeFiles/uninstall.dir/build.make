@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan
+CMAKE_SOURCE_DIR = /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build
+CMAKE_BINARY_DIR = /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build
 
 # Utility rule file for uninstall.
 
@@ -67,7 +67,7 @@ include raylib/CMakeFiles/uninstall.dir/compiler_depend.make
 include raylib/CMakeFiles/uninstall.dir/progress.make
 
 raylib/CMakeFiles/uninstall:
-	cd /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/raylib && /usr/bin/cmake -P /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/raylib/cmake_uninstall.cmake
+	cd /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/raylib && /usr/bin/cmake -P /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/raylib/cmake_uninstall.cmake
 
 uninstall: raylib/CMakeFiles/uninstall
 uninstall: raylib/CMakeFiles/uninstall.dir/build.make
@@ -78,10 +78,10 @@ raylib/CMakeFiles/uninstall.dir/build: uninstall
 .PHONY : raylib/CMakeFiles/uninstall.dir/build
 
 raylib/CMakeFiles/uninstall.dir/clean:
-	cd /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/raylib && $(CMAKE_COMMAND) -P CMakeFiles/uninstall.dir/cmake_clean.cmake
+	cd /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/raylib && $(CMAKE_COMMAND) -P CMakeFiles/uninstall.dir/cmake_clean.cmake
 .PHONY : raylib/CMakeFiles/uninstall.dir/clean
 
 raylib/CMakeFiles/uninstall.dir/depend:
-	cd /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/raylib /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/build/raylib/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/raylib /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/raylib/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : raylib/CMakeFiles/uninstall.dir/depend
 

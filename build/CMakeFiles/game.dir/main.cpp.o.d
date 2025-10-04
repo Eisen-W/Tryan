@@ -1,7 +1,7 @@
 CMakeFiles/game.dir/main.cpp.o: \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/main.cpp \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/main.cpp \
  /usr/include/stdc-predef.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/raylib.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/raylib.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
  /usr/include/c++/13/cmath /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \

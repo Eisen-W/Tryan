@@ -1,11 +1,11 @@
 raylib/raylib/CMakeFiles/raylib.dir/rshapes.c.o: \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/rshapes.c \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/rshapes.c \
  /usr/include/stdc-predef.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/raylib.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/raylib.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/config.h \
- /media/eisn/BC02237702233634/NISARG_NEW/Github_Repo/Raylib_Testing/Tryan/raylib/src/rlgl.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/config.h \
+ /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/raylib/src/rlgl.h \
  /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
