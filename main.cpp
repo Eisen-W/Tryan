@@ -9,6 +9,7 @@ using namespace std;
 
 constexpr int canvasWidth=800;
 constexpr int canvasHeight=600;
+Font GBFont = LoadFont("../assets/Fonts/ascii.png");
 
 enum GameState{
     Title,
@@ -21,7 +22,8 @@ class TitleScreen{
         void Draw()
         {
             DrawRectangle(0,0,canvasWidth, canvasHeight, PINK);
-            DrawRectangleRec(Startbutton, YELLOW);
+            DrawRectangleRec(Startbutton, BLACK);
+            DrawTextPro(GBFont, "Start", {(canvasWidth-150)/2, (canvasHeight-50)/2}, {0,0}, 0, 50, 5, RAYWHITE);
         }
         void Update(float scale, int offsetX, int offsetY)
         {
@@ -96,6 +98,8 @@ int main()
         EndDrawing();
     }
     UnloadRenderTexture(target);
+    UnloadTexture(bg);
+    UnloadFont(GBFont);
     CloseWindow();
     return 0;
 }
