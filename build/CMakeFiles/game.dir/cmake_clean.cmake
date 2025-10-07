@@ -1,6 +1,10 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/game.dir/game.cpp.o"
+  "CMakeFiles/game.dir/game.cpp.o.d"
   "CMakeFiles/game.dir/main.cpp.o"
   "CMakeFiles/game.dir/main.cpp.o.d"
+  "CMakeFiles/game.dir/titlescreen.cpp.o"
+  "CMakeFiles/game.dir/titlescreen.cpp.o.d"
   "game"
   "game.pdb"
 )

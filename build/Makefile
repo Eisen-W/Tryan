@@ -246,6 +246,30 @@ update_mappings/fast:
 	$(MAKE) $(MAKESILENT) -f raylib/raylib/external/glfw/src/CMakeFiles/update_mappings.dir/build.make raylib/raylib/external/glfw/src/CMakeFiles/update_mappings.dir/build
 .PHONY : update_mappings/fast
 
+game.o: game.cpp.o
+.PHONY : game.o
+
+# target to build an object file
+game.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/game.dir/build.make CMakeFiles/game.dir/game.cpp.o
+.PHONY : game.cpp.o
+
+game.i: game.cpp.i
+.PHONY : game.i
+
+# target to preprocess a source file
+game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/game.dir/build.make CMakeFiles/game.dir/game.cpp.i
+.PHONY : game.cpp.i
+
+game.s: game.cpp.s
+.PHONY : game.s
+
+# target to generate assembly for a file
+game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/game.dir/build.make CMakeFiles/game.dir/game.cpp.s
+.PHONY : game.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -270,6 +294,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/game.dir/build.make CMakeFiles/game.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+titlescreen.o: titlescreen.cpp.o
+.PHONY : titlescreen.o
+
+# target to build an object file
+titlescreen.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/game.dir/build.make CMakeFiles/game.dir/titlescreen.cpp.o
+.PHONY : titlescreen.cpp.o
+
+titlescreen.i: titlescreen.cpp.i
+.PHONY : titlescreen.i
+
+# target to preprocess a source file
+titlescreen.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/game.dir/build.make CMakeFiles/game.dir/titlescreen.cpp.i
+.PHONY : titlescreen.cpp.i
+
+titlescreen.s: titlescreen.cpp.s
+.PHONY : titlescreen.s
+
+# target to generate assembly for a file
+titlescreen.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/game.dir/build.make CMakeFiles/game.dir/titlescreen.cpp.s
+.PHONY : titlescreen.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -289,9 +337,15 @@ help:
 	@echo "... game"
 	@echo "... glfw"
 	@echo "... raylib"
+	@echo "... game.o"
+	@echo "... game.i"
+	@echo "... game.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... titlescreen.o"
+	@echo "... titlescreen.i"
+	@echo "... titlescreen.s"
 .PHONY : help
 
 

@@ -69,10 +69,24 @@ include CMakeFiles/game.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/game.dir/flags.make
 
+CMakeFiles/game.dir/game.cpp.o: CMakeFiles/game.dir/flags.make
+CMakeFiles/game.dir/game.cpp.o: /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/game.cpp
+CMakeFiles/game.dir/game.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/game.dir/game.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/game.cpp.o -MF CMakeFiles/game.dir/game.cpp.o.d -o CMakeFiles/game.dir/game.cpp.o -c /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/game.cpp
+
+CMakeFiles/game.dir/game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/game.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/game.cpp > CMakeFiles/game.dir/game.cpp.i
+
+CMakeFiles/game.dir/game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/game.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/game.cpp -o CMakeFiles/game.dir/game.cpp.s
+
 CMakeFiles/game.dir/main.cpp.o: CMakeFiles/game.dir/flags.make
 CMakeFiles/game.dir/main.cpp.o: /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/main.cpp
 CMakeFiles/game.dir/main.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/game.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/game.dir/main.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/main.cpp.o -MF CMakeFiles/game.dir/main.cpp.o.d -o CMakeFiles/game.dir/main.cpp.o -c /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/main.cpp
 
 CMakeFiles/game.dir/main.cpp.i: cmake_force
@@ -83,14 +97,32 @@ CMakeFiles/game.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/main.cpp -o CMakeFiles/game.dir/main.cpp.s
 
+CMakeFiles/game.dir/titlescreen.cpp.o: CMakeFiles/game.dir/flags.make
+CMakeFiles/game.dir/titlescreen.cpp.o: /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/titlescreen.cpp
+CMakeFiles/game.dir/titlescreen.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/game.dir/titlescreen.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/titlescreen.cpp.o -MF CMakeFiles/game.dir/titlescreen.cpp.o.d -o CMakeFiles/game.dir/titlescreen.cpp.o -c /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/titlescreen.cpp
+
+CMakeFiles/game.dir/titlescreen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/titlescreen.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/titlescreen.cpp > CMakeFiles/game.dir/titlescreen.cpp.i
+
+CMakeFiles/game.dir/titlescreen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/titlescreen.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/titlescreen.cpp -o CMakeFiles/game.dir/titlescreen.cpp.s
+
 # Object files for target game
 game_OBJECTS = \
-"CMakeFiles/game.dir/main.cpp.o"
+"CMakeFiles/game.dir/game.cpp.o" \
+"CMakeFiles/game.dir/main.cpp.o" \
+"CMakeFiles/game.dir/titlescreen.cpp.o"
 
 # External object files for target game
 game_EXTERNAL_OBJECTS =
 
+game: CMakeFiles/game.dir/game.cpp.o
 game: CMakeFiles/game.dir/main.cpp.o
+game: CMakeFiles/game.dir/titlescreen.cpp.o
 game: CMakeFiles/game.dir/build.make
 game: raylib/raylib/libraylib.a
 game: /usr/lib/x86_64-linux-gnu/libOpenGL.so
@@ -98,7 +130,7 @@ game: /usr/lib/x86_64-linux-gnu/libGLX.so
 game: /usr/lib/x86_64-linux-gnu/librt.a
 game: /usr/lib/x86_64-linux-gnu/libm.so
 game: CMakeFiles/game.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable game"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/media/eisn/BC02237702233634/NS_NEW/Github_Repo/Tryan/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable game"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/game.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
